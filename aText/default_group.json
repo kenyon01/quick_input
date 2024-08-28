@@ -1,0 +1,438 @@
+{
+    "0": "00000000-0000-0000-0000-000000000000",
+    "4": [
+        {
+            "99": 1,
+            "0": "f3421c8c-b68d-48cc-937f-59dae9fcca20",
+            "2": "Default Group",
+            "8": 1,
+            "11": true,
+            "12": 1724825846,
+            "16": 589900,
+            "13": [
+                {
+                    "99": 1,
+                    "0": "f7e9ad37-fd99-4e3f-a70b-bd0422205877",
+                    "2": "greek",
+                    "12": 1724835051,
+                    "13": [
+                        {
+                            "0": "d40802c4-6b03-45a1-a1ef-63dfdfde04bb",
+                            "1": [
+                                "omga"
+                            ],
+                            "3": "t",
+                            "4": "\\omega",
+                            "13": 1724834559
+                        },
+                        {
+                            "0": "45d9cd66-1fa8-4c51-b371-4c39fad0d028",
+                            "1": [
+                                "dlt"
+                            ],
+                            "3": "t",
+                            "4": "\\delta",
+                            "13": 1724830924
+                        },
+                        {
+                            "0": "6a29b2fb-b545-47bf-98ba-baaf937459ee",
+                            "1": [
+                                "alf"
+                            ],
+                            "3": "t",
+                            "4": "\\alpha",
+                            "13": 1724830113
+                        },
+                        {
+                            "0": "aa50f9ed-67de-4b46-a09f-0556e3f48900",
+                            "1": [
+                                "bt"
+                            ],
+                            "3": "t",
+                            "4": "\\beta",
+                            "13": 1724830109
+                        },
+                        {
+                            "0": "46eaa3e1-7f1c-4c58-ae08-c2f77b43607f",
+                            "1": [
+                                "gmm"
+                            ],
+                            "3": "t",
+                            "4": "\\gamma",
+                            "7": "py",
+                            "12": "Note",
+                            "13": 1724830798
+                        },
+                        {
+                            "0": "45e98ebe-b7c6-43b5-b7ab-17349a333296",
+                            "1": [
+                                "chi"
+                            ],
+                            "3": "t",
+                            "4": "\\chi",
+                            "13": 1724830892
+                        },
+                        {
+                            "0": "d95f0917-b451-4ae0-924a-fb843d6a29f2",
+                            "1": [
+                                "dllt"
+                            ],
+                            "3": "t",
+                            "4": "\\Delta",
+                            "13": 1724834036
+                        },
+                        {
+                            "0": "a60deb5a-6629-4943-aaaf-b875d3895e4b",
+                            "1": [
+                                "ggmm"
+                            ],
+                            "3": "t",
+                            "4": "\\Gamma",
+                            "13": 1724834084
+                        },
+                        {
+                            "0": "34b4a9e3-fd6a-45ad-806e-e10f673fdffe",
+                            "1": [
+                                "epsl"
+                            ],
+                            "3": "t",
+                            "4": "\\epsilon",
+                            "13": 1724834195
+                        },
+                        {
+                            "0": "94067fed-fbab-46be-80b4-9ffa8d812bda",
+                            "1": [
+                                "zeta"
+                            ],
+                            "3": "t",
+                            "4": "\\zeta",
+                            "13": 1724834217
+                        },
+                        {
+                            "0": "a9ca22ce-a18a-4d91-b86a-0b62a52a7219",
+                            "1": [
+                                "eta"
+                            ],
+                            "3": "t",
+                            "4": "\\eta",
+                            "13": 1724834243
+                        },
+                        {
+                            "0": "8e92c7a4-5fbe-4a0a-84d3-6e50e4e8ed79",
+                            "1": [
+                                "etaa"
+                            ],
+                            "3": "t",
+                            "4": "\\theta",
+                            "13": 1724834278
+                        },
+                        {
+                            "0": "53bf709f-cf30-42f9-9e52-ede384a7ef1e",
+                            "1": [
+                                "lbd"
+                            ],
+                            "3": "t",
+                            "4": "\\lambda",
+                            "13": 1724834407
+                        },
+                        {
+                            "0": "2185273d-f4c8-4329-8f6f-d2042da80dce",
+                            "1": [
+                                "muu"
+                            ],
+                            "3": "t",
+                            "4": "\\mu",
+                            "13": 1724834673
+                        },
+                        {
+                            "0": "5eb687c7-8a88-49a2-89bc-a392243415a4",
+                            "1": [
+                                "nuu"
+                            ],
+                            "3": "t",
+                            "4": "\\nu",
+                            "13": 1724834442
+                        },
+                        {
+                            "0": "e0c6dcbe-594a-45da-86b0-77a87e064337",
+                            "1": [
+                                "xii"
+                            ],
+                            "3": "t",
+                            "4": "\\xi",
+                            "13": 1724834457
+                        },
+                        {
+                            "0": "197adf1a-ed84-48b9-9249-8527fba989b2",
+                            "1": [
+                                "pii"
+                            ],
+                            "3": "t",
+                            "4": "\\pi",
+                            "13": 1724834469
+                        },
+                        {
+                            "0": "1aeaca82-cb98-4fd1-aabe-4376d2029ae3",
+                            "1": [
+                                "rhoo"
+                            ],
+                            "3": "t",
+                            "4": "\\rho",
+                            "13": 1724834488
+                        },
+                        {
+                            "0": "515c5926-2239-4e2d-915b-869c255606a5",
+                            "1": [
+                                "sgm"
+                            ],
+                            "3": "t",
+                            "4": "\\sigma",
+                            "13": 1724834501
+                        },
+                        {
+                            "0": "7d1261b2-d0c3-4c52-a522-dbce1bc2f2d0",
+                            "1": [
+                                "tau"
+                            ],
+                            "3": "t",
+                            "4": "\\tau",
+                            "13": 1724834517
+                        },
+                        {
+                            "0": "201f05a0-b55e-42ff-b2d5-e6ec82b4f5d0",
+                            "1": [
+                                "psi"
+                            ],
+                            "3": "t",
+                            "4": "\\Psi",
+                            "13": 1724834534
+                        }
+                    ]
+                },
+                {
+                    "99": 1,
+                    "0": "26b16822-a4cb-44b7-a441-fdfef649a58a",
+                    "2": "operator",
+                    "12": 1724835068,
+                    "13": [
+                        {
+                            "0": "a69cd245-3f9b-445e-9132-1caeded4a965",
+                            "1": [
+                                "iin"
+                            ],
+                            "3": "t",
+                            "4": "\\in",
+                            "13": 1724835203
+                        },
+                        {
+                            "0": "40fdeced-0616-49ca-8209-bb8abe8e9130",
+                            "1": [
+                                "noset"
+                            ],
+                            "3": "t",
+                            "4": "\\emptyset",
+                            "13": 1724835263
+                        },
+                        {
+                            "0": "ddc7b9f6-cc41-4361-871a-b8dc9664adda",
+                            "1": [
+                                "aas"
+                            ],
+                            "3": "t",
+                            "4": "\\because",
+                            "13": 1724835319
+                        },
+                        {
+                            "0": "53d0ad03-5135-4439-9f92-d5fc5da650e1",
+                            "1": [
+                                "soo"
+                            ],
+                            "3": "t",
+                            "4": "\\therefore",
+                            "13": 1724835306
+                        },
+                        {
+                            "0": "30bed927-b82c-4fdc-bc94-7a48d569f8a1",
+                            "1": [
+                                "suq"
+                            ],
+                            "3": "t",
+                            "4": "\\subseteq",
+                            "13": 1724835360
+                        },
+                        {
+                            "0": "5c241def-34c7-4813-afb8-bea784baceb6",
+                            "1": [
+                                "sbs"
+                            ],
+                            "3": "t",
+                            "4": "\\subset",
+                            "13": 1724836102
+                        },
+                        {
+                            "0": "7aabbc40-f610-4653-892e-ee3c71c0d47d",
+                            "1": [
+                                "inff"
+                            ],
+                            "3": "t",
+                            "4": "\\infty",
+                            "13": 1724835591
+                        },
+                        {
+                            "0": "8841cd70-879d-42dd-8854-fcdca4837318",
+                            "1": [
+                                "mathbb"
+                            ],
+                            "3": "t",
+                            "4": "\\mathbb{<atext contenteditable=\"false\" name=\"空心字体\" type=\"field\" flags=\"4\">✎空心字体</atext>}",
+                            "13": 1724836016
+                        },
+                        {
+                            "0": "4247149b-3774-4a7d-a6ef-f834c3306d19",
+                            "1": [
+                                "mathscr"
+                            ],
+                            "3": "t",
+                            "4": "\\mathscr{<atext contenteditable=\"false\" name=\"花体字体\" type=\"field\" flags=\"4\">✎花体字体</atext>}",
+                            "13": 1724836069
+                        },
+                        {
+                            "0": "18923674-736c-40a9-9640-5f18d8b08ba8",
+                            "1": [
+                                "inont"
+                            ],
+                            "3": "t",
+                            "4": "\\int",
+                            "13": 1724836789
+                        }
+                    ]
+                },
+                {
+                    "99": 1,
+                    "0": "1106260d-5e50-4cd3-9053-d0e7d657383b",
+                    "2": "functions",
+                    "12": 1724836791,
+                    "13": [
+                        {
+                            "0": "b5a09149-5c63-4d40-803b-4f188d8295dd",
+                            "1": [
+                                "ffr"
+                            ],
+                            "3": "t",
+                            "4": "\\frac{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}",
+                            "13": 1724836906
+                        },
+                        {
+                            "0": "06b8a9ec-980c-4b55-b24d-423607dd6632",
+                            "1": [
+                                "jj"
+                            ],
+                            "3": "t",
+                            "4": "_{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}",
+                            "13": 1724836931
+                        },
+                        {
+                            "0": "aeb517d2-55d8-48d2-a3fa-c31e3d261a0d",
+                            "1": [
+                                "hh"
+                            ],
+                            "3": "t",
+                            "4": "^{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}",
+                            "13": 1724837089
+                        },
+                        {
+                            "0": "f5c00f9d-2a58-4c53-bfaa-2413546f69c9",
+                            "1": [
+                                "sqt"
+                            ],
+                            "3": "t",
+                            "4": "\\sqrt{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}",
+                            "13": 1724837132
+                        },
+                        {
+                            "0": "84a51d32-f9e7-4aef-ab81-2d4afad09d05",
+                            "1": [
+                                "123n"
+                            ],
+                            "3": "t",
+                            "4": "<atext contenteditable=\"false\" name=\"var\" value=\"\" type=\"field\" flags=\"4\">✎var</atext>_1, <atext contenteditable=\"false\" name=\"var\" type=\"field\" flags=\"4\">✎var</atext>_2, <atext contenteditable=\"false\" name=\"var\" type=\"field\" flags=\"4\">✎var</atext>_3, \\cdots, <atext contenteditable=\"false\" name=\"var\" type=\"field\" flags=\"4\">✎var</atext>_n",
+                            "13": 1724838256
+                        },
+                        {
+                            "0": "25ff6a2f-de9d-4422-a56e-db0612ad0af6",
+                            "1": [
+                                "fp"
+                            ],
+                            "3": "t",
+                            "4": "\\frac{\\partial{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}}{\\partial{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}}",
+                            "13": 1724837536
+                        },
+                        {
+                            "0": "d3e1d52a-4f45-40f3-b552-2c946178cfb8",
+                            "1": [
+                                "abs"
+                            ],
+                            "3": "t",
+                            "4": "|<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>|",
+                            "13": 1724837569
+                        },
+                        {
+                            "0": "c90282fa-d765-4293-ad86-16045406c525",
+                            "1": [
+                                "mmax"
+                            ],
+                            "3": "t",
+                            "4": "\\max_{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}",
+                            "13": 1724837620
+                        },
+                        {
+                            "0": "0dbffbfd-68dc-4c37-82e4-a5703e759b67",
+                            "1": [
+                                "llim"
+                            ],
+                            "3": "t",
+                            "4": "\\lim_{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}",
+                            "13": 1724837644
+                        },
+                        {
+                            "0": "7d2febee-ab9b-45a7-9424-7c64d75128a5",
+                            "1": [
+                                "innt"
+                            ],
+                            "3": "t",
+                            "4": "\\int_{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}^{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}",
+                            "13": 1724837694
+                        },
+                        {
+                            "0": "05181752-2583-46c3-a6ff-27cb8af581f1",
+                            "1": [
+                                "dbinnt"
+                            ],
+                            "3": "t",
+                            "4": "\\iint_{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}^{<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>}",
+                            "13": 1724837745
+                        },
+                        {
+                            "0": "a18d2ccd-4b6f-4418-b698-90ed193f0355",
+                            "1": [
+                                "aaln"
+                            ],
+                            "3": "t",
+                            "4": "\\begin{aligned}\n<atext contenteditable=\"false\" type=\"field\" flags=\"4\">✎</atext>\n\\end{aligned}",
+                            "13": 1724837777
+                        },
+                        {
+                            "0": "0a839144-5e54-4914-a5b5-9fb2aaacc616",
+                            "1": [
+                                "sst"
+                            ],
+                            "3": "t",
+                            "4": "\\text{s.t.}",
+                            "13": 1724837792
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
